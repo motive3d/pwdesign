@@ -1,0 +1,62 @@
+[
+  {
+    "output": "bmw-0.webp",
+    "source": "BMW-main/assets/cars/m4/bmw-m4-competition-coupe-marina-bay-blue-exterior.webp",
+    "width": 1400,
+    "height": 1400
+  },
+  {
+    "output": "bmw-1.webp",
+    "source": "BMW-main/assets/cars/m3/bmw-m3-competition-sedan-xdrive-rear.webp",
+    "width": 1800,
+    "height": 1200
+  },
+  {
+    "output": "elite-0.webp",
+    "source": "elite-estates-main/public/images/hero.webp",
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "output": "elite-1.webp",
+    "source": "elite-estates-main/public/images/pearl.webp",
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "output": "forge-0.webp",
+    "source": "FORGE-ATHLETIC-CLUB-main/public/media/hero.webp",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "output": "forge-1.webp",
+    "source": "FORGE-ATHLETIC-CLUB-main/public/media/strength.webp",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "output": "noir-0.webp",
+    "source": "NOIR-BEAN-main/public/assets/hero.webp",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "output": "noir-1.webp",
+    "source": "NOIR-BEAN-main/public/assets/interior.webp",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "output": "velalight-0.webp",
+    "source": "velalight.github.io-main/velalight-wooden-luxury-set-3candles-detail.webp",
+    "width": 1400,
+    "height": 1400
+  },
+  {
+    "output": "velalight-1.webp",
+    "source": "velalight.github.io-main/velalight-metal-mandala-bestseller-main.webp",
+    "width": 1400,
+    "height": 1400
+  }
+]
